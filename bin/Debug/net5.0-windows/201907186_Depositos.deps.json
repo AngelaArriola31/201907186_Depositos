@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "201907186_Depositos/1.0.0": {
+        "runtime": {
+          "201907186_Depositos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "201907186_Depositos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
